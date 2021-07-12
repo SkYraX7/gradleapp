@@ -5,6 +5,8 @@ package gradleapp;
 
 public class App {
     public String getGreeting() {
+        Integer st=null;
+        Integer st2 = st+st;
         return "Hello World!";
     }
 
